@@ -21,6 +21,7 @@ body {
 .postcard-header img {
 	width: 50px;
 	height: 50px;
+	margin-left: 165px;
 }
 .postcard-body {
 	display: flex;
@@ -30,7 +31,7 @@ body {
 }
 .body-left,
 .body-right {
-	padding: 10px;
+	padding: 5px 10px 0px 10px;
 }
 input {
 	border: none;
@@ -41,6 +42,5 @@ input {
 }
 button {
 	background-color: grey;
-	padding: 5px 10px;
+	margin-top: -20px;
 }
-https://github.com/katlynj15/Prework-Postcard.git
